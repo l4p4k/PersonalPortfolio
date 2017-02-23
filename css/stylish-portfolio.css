@@ -176,45 +176,31 @@ hr.small {
     padding: 50px 0;
 }
 
-/* Services */
+/* Skills */
 
-.services {
+.skills {
     padding: 50px 0;
 }
 
-.service-item {
+.skills-item {
     margin-bottom: 30px;
 }
 
-/* Callout */
+/* Work */
 
-.callout {
-    display: table;
-    width: 100%;
-    height: 400px;
-    color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-/* Portfolio */
-
-.portfolio {
+.work {
     padding: 50px 0;
 }
 
-.portfolio-item {
+.work-item {
     margin-bottom: 30px;
 }
 
-.img-portfolio {
+.img-work {
     margin: 0 auto;
 }
 
-.img-portfolio:hover {
+.img-work:hover {
     opacity: 0.8;
 }
 
